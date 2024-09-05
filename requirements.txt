@@ -2,3 +2,5 @@ notebook
 pandas
 seaborn
 matplotlib
+scikit-learn
+plotly
